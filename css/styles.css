@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 150px;
+    padding: 40px 200px;
+}
+
+.owl {
+    width: 65px;
+    height: 85px;
+}
+
+.ul {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #636060;
+}
+
+/* ############################################## */
+
+.section1 {
+   background-image: url(../images/1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 1000px;
+
+}
+
+.section1_h1 {
+    padding-top: 300px;
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 200px;
+    font-weight: 700;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    color: white;
+}
+
+.section1_p1 {
+    font-size: 50px;
+    text-align: center;
+    font-weight: 300;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    color: white;
+}
+
+/* ###################################################-- */
+
+.section2 {
+    padding: 150px;
+    width: 1903px;
+    height: 800px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.left-side {
+    width: 350px;
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    line-height: 25px;
+}
+
+.left-side-h3 {
+    color: #636060;
+    font-weight: 400;
+    font-size: 25px; 
+}
+
+.left-side-h1 {
+    font-size: 35px;
+    color: #010101;
+    font-weight: 500;
+}
+
+.left-side-p {
+    font-size: 25px;
+    color: #636060;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+/* 1064 marjvena */
+/* 638 marcxenas marginit */
+
+/* ##################################### */
+
+.right-side {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.div1 {
+    width: 289px;
+    margin-right: 50px;
+}
+
+.div1 img {
+    margin-bottom: 15px;
+}
+
+.div1 h1 {
+    margin-bottom: 10px;
+}
+
