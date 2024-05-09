@@ -60,7 +60,7 @@ header {
 /* ###################################################-- */
 
 .section2 {
-    padding: 150px;
+    padding: 100px;
     width: 1903px;
     height: 800px;
     display: flex;
@@ -100,22 +100,167 @@ header {
 /* ##################################### */
 
 .right-side {
-    width: 1000px;
+    width: 1100px;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    align-content: space-around;
 }
 
 .div1 {
     width: 289px;
     margin-right: 50px;
+    margin-bottom: 30px;
 }
 
 .div1 img {
     margin-bottom: 15px;
+    width: 289px;
 }
 
 .div1 h1 {
     margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
+.div1 p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20px;
+}
+
+/* ########################################### */
+
+.div2 {
+    width: 289px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+.div2 img {
+    margin-bottom: 15px;
+    width: 289px;
+}
+
+.div2 h1 {
+    margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.div2 p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20px;
+}
+
+/* #################################### */
+
+.div3 {
+    width: 289px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+.div3 img {
+    margin-bottom: 15px;
+    width: 289px;
+}
+
+.div3 h1 {
+    margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.div3 p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20px;
+}
+
+/* ######################## */
+
+.div4 {
+    width: 289px;
+    margin-right: 50px;
+}
+
+.div4 img {
+    margin-bottom: 15px;
+    width: 289px;
+}
+
+.div4 h1 {
+    margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.div4 p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20px;
+}
+
+/* ############################ */
+
+.div5 {
+    width: 289px;
+    margin-right: 50px;
+}
+
+.div5 img {
+    margin-bottom: 15px;
+    width: 289px;
+}
+
+.div5 h1 {
+    margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.div5 p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20px;
+}
+
+/* ############################# */
+
+
+.div6 {
+    width: 289px;
+    margin-right: 50px;
+}
+
+.div6 img {
+    margin-bottom: 15px;
+    width: 289px;
+}
+
+.div6 h1 {
+    margin-bottom: 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.div6 p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20px;
+}
